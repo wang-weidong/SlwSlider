@@ -1,8 +1,8 @@
 # SlwSlider/(Super Lightweight Slider)
 
-Javascript picture SlwSlider
+Javascript picture slider
 
-[Demo](http://htmlpreview.github.io/?https://github.com/wang-weidong/SlwSlider/blob/master/demo/index.html "Demo")
+[Demo](https://wang-weidong.github.io/SlwSlider/demo/index.html "Demo")
 
 ## Browser Support ##
 - Internet Explorer: 6, 7, 8, 9, 10, 11

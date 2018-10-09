@@ -1,6 +1,6 @@
-# SlwSlider/Slw.Slider
+# SlwSlider/(Super Lightweight Slider)
 
-Javascript picture Slider/slw.Slider
+Javascript picture SlwSlider
 
 [Demo](http://htmlpreview.github.io/?https://github.com/wang-weidong/SlwSlider/blob/master/demo/index.html "Demo")
 
@@ -15,4 +15,4 @@ Javascript picture Slider/slw.Slider
 ## License ##
 Copyright (c) 2012.4 WangWeidong
 
-SliderSlider/slw.Slider.js is released under the MIT license.
+SlwSlider/slw.Slider.js is released under the MIT license.
